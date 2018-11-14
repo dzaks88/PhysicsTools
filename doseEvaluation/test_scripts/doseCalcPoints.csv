@@ -1,0 +1,8 @@
+% Plan Name: V&V SBRT2 32mm-StatHomOff
+% Plan Description: vv Expts. SBRT2
+% useIEC: true
+
+xMm,yMm,zMm,doseValGy
+0,0,0,0.7641784
+0,-15,0,0.5539995
+0,-30,0,0.0756664

@@ -1,0 +1,18 @@
+[
+	{
+		"planId": "vv_SBRT2_ac_statHomOff",
+		"planName": "V&V SBRT2 32mm-StatHomOff",
+		"planDescription": "vv Expts. SBRT2",
+		"useIEC": 1,
+		"pointsXyzMm": [
+			[0,0,0],
+			[0,-15,0],
+			[0,-30,0]
+		],
+		"doseValGy": [
+			[0.7641783953],
+			[0.5539994836],
+			[0.07566639781]
+		]
+	}
+]
